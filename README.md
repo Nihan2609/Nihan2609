@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nihan
 - 👀 I’m interested in C,Py.
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on nothing rightnow.
+
   
 
 <!---
