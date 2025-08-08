@@ -14,7 +14,6 @@
 **Languages & Databases:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
@@ -28,7 +27,6 @@
 
 ## 📌 Featured Projects
 - **🌐 Disaster Relief Management System** – Real-time volunteer coordination, requests, and resource tracking  
-- **💻 JavaFX Disaster Relief System** – Client-server model with MySQL and Scene Builder UI  
 - **🎮 Multiplayer Game Projects** – Java + socket programming for real-time gameplay  
 
 ---
