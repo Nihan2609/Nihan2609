@@ -1,54 +1,54 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Nihan+👋;Full+Stack+Developer;JavaFX+%7C+MERN+Stack+%7C+MySQL;Always+Learning+%26+Building+🚀)](https://git.io/typing-svg)
+<!-- Typing SVG Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Hi+there%2C+I'm+Nihan+👋;Full+Stack+Developer+%7C+JavaFX+%7C+MERN;Always+Learning+and+Building+🚀)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 About Me
-💡 Passionate about **full-stack development** and **problem solving**  
-🌱 Currently learning **network programming**, **multithreading**, and **system design**  
-💻 Building both **MERN stack** and **JavaFX + MySQL** projects  
-⚡ Fun fact: I debug my code more than I write it 😅  
+## 🌟 About Me
+💡 Passionate about **building impactful applications** with clean, efficient code  
+🔭 Currently working on: **Disaster Relief Management System** (MERN + JavaFX)  
+🌱 Learning more about **network programming**, **multithreading**, and **system design**  
+⚡ Fun fact: I think debugging is just detective work in a code crime scene 😄  
 
 ---
 
-## 🔧 Tech Stack
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+## 🛠 Tech Stack
+**Languages & Databases:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-**Frameworks & Libraries:**  
-![JavaFX](https://img.shields.io/badge/JavaFX-FF6F00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-**Databases:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Frameworks & Tools:**  
+![JavaFX](https://img.shields.io/badge/JavaFX-FF6F00?style=flat&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 
 ---
 
 ## 📌 Featured Projects
-- **🌐 Disaster Relief Management System (MERN)** – Real-time volunteer coordination, request handling, and resource management  
-- **🎮 Java Game Projects** – Multiplayer features using sockets & threads  
+- **🌐 Disaster Relief Management System (MERN)** – Real-time volunteer coordination, requests, and resource tracking  
+- **💻 JavaFX Disaster Relief System** – Client-server model with MySQL and Scene Builder UI  
+- **🎮 Multiplayer Game Projects** – Java + socket programming for real-time gameplay  
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  
-![Nihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nihan2609&show_icons=true&theme=tokyonight&hide_border=true)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nihan2609&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nihan2609&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Nihan2609)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/al-farhan-nihan-71a9a8271/))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alnihan196@gmail.com)
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-farhan-nihan-71a9a8271/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alnihan196@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Nihan2609)
 
 ---
 
-💬 *"The best way to predict the future is to invent it."*
+💬 *"The best way to predict the future is to invent it."*  
