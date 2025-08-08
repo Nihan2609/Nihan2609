@@ -5,7 +5,6 @@
 
 ## 🌟 About Me
 💡 Passionate about **building impactful applications** with clean, efficient code  
-🔭 Currently working on: **Disaster Relief Management System** (MERN + JavaFX)  
 🌱 Learning more about **network programming**, **multithreading**, and **system design**  
 ⚡ Fun fact: I think debugging is just detective work in a code crime scene 😄  
 
@@ -28,7 +27,7 @@
 ---
 
 ## 📌 Featured Projects
-- **🌐 Disaster Relief Management System (MERN)** – Real-time volunteer coordination, requests, and resource tracking  
+- **🌐 Disaster Relief Management System** – Real-time volunteer coordination, requests, and resource tracking  
 - **💻 JavaFX Disaster Relief System** – Client-server model with MySQL and Scene Builder UI  
 - **🎮 Multiplayer Game Projects** – Java + socket programming for real-time gameplay  
 
