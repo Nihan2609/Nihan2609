@@ -1,5 +1,5 @@
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Nihan+👋;Full+Stack+Developer+%7C+SERN+Stack;JavaFX+%7C+C%2FC%2B%2B+%7C+DSA;Always+Learning+and+Building+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Nihan+👋;Full+Stack+Developer+%7C+SERN+Stack;JavaFX+%7C+C%2FC%2B%2B;Always+Learning+and+Building+🚀)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Network%20Programming-00BFFF?style=flat" />
@@ -11,18 +11,17 @@
 ## 🌟 About Me
 - 💡 I build **clean, efficient** apps that solve real problems  
 - 🔭 Current: **Disaster Relief Management System** (SERN + JavaFX client)  
-- 🧠 Sharpening **data structures & algorithms** (C/C++), **multithreading**, **system design**  
+- 🧠 Learning **network programming**, **multithreading**, **system design**  
 - ⚡ Fun fact: Debugging = detective work in a code crime scene 😄
 
 ---
 
 ## 🛠 Tech Stack
-**Languages & CS Fundamentals**  
+**Languages**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-6A5ACD?style=flat)
 
 **Web & Backend (SERN)**  
 ![SQL](https://img.shields.io/badge/SQL-2F74C0?style=flat&logo=postgresql&logoColor=white)
@@ -39,16 +38,8 @@
 ---
 
 ## 📌 Featured Projects
-- **🌐 Disaster Relief Management System** — Real-time volunteer coordination, requests & resource tracking (SERN)  
 - **🎮 Multiplayer Game Projects** — Java + sockets + threads for real-time gameplay  
 - **🖥 JavaFX Client** — Clean Scene Builder UI over a networked backend
-
----
-
-## ⚔️ DSA Progress (C/C++)
-- Arrays & Strings • Linked Lists • Stacks/Queues  
-- Trees/Graphs • Greedy • DP • Two-Pointers/Sliding Window  
-- Problems per week: **consistency > intensity** ✅
 
 ---
 
