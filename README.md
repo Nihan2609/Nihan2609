@@ -8,14 +8,6 @@
 
 ---
 
-## 🌟 About Me
-- 💡 I build **clean, efficient** apps that solve real problems  
-- 🔭 Current: **Disaster Relief Management System** (SERN + JavaFX client)  
-- 🧠 Learning **network programming**, **multithreading**, **system design**  
-- ⚡ Fun fact: Debugging = detective work in a code crime scene 😄
-
----
-
 ## 🛠 Tech Stack
 **Languages**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=000)
@@ -38,6 +30,7 @@
 ---
 
 ## 📌 Featured Projects
+- **🌐 Disaster Relief Management System** — Real-time volunteer coordination, requests & resource tracking (SERN)  
 - **🎮 Multiplayer Game Projects** — Java + sockets + threads for real-time gameplay  
 - **🖥 JavaFX Client** — Clean Scene Builder UI over a networked backend
 
