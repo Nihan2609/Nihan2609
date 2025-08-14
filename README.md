@@ -16,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 
 **Web & Backend (SERN)**  
-![SQL](https://img.shields.io/badge/SQL-2F74C0?style=flat&logo=postgresql&logoColor=white)
+
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
