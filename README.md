@@ -1,10 +1,7 @@
 <!-- Typing SVG Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Nihan+👋;Full+Stack+Developer+%7C+SERN+Stack;JavaFX+%7C+C%2FC%2B%2B;Always+Learning+and+Building+🚀)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Network%20Programming-00BFFF?style=flat" />
-  <img src="https://komarev.com/ghpvc/?username=Nihan2609&label=Profile%20views&style=flat" />
-</p>
+
 
 ---
 
