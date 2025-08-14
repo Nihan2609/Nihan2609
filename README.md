@@ -14,13 +14,13 @@
 
 **Web & Backend (SERN)**  
 
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 **Desktop, UI & Tools**  
 ![JavaFX](https://img.shields.io/badge/JavaFX-FF6F00?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Socket Programming](https://img.shields.io/badge/Networking-Sockets-0A66C2?style=flat)
 
