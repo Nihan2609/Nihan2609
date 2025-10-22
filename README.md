@@ -20,6 +20,10 @@ MySQL · Express.js · React · Node.js
 JavaFX · Git · Socket Programming  
 
 ---
+## 🌐 Portfolio
+Check out my work and projects: [nihan.vercel.app](https://nihan.vercel.app)
+
+---
 
 ##  Featured Projects
 - ** Disaster Relief Management System** — Real-time volunteer & resource tracking (SERN stack)  
