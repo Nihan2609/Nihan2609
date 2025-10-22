@@ -1,11 +1,11 @@
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Nihan+👋;Full+Stack+Developer+%7C+SERN+Stack;JavaFX+%7C+C%2FC%2B%2B;Always+Learning+and+Building+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Nihan+;Full+Stack+Developer+%7C+SERN+Stack;JavaFX+%7C+C%2FC%2B%2B;Always+Learning+and+Building+)](https://git.io/typing-svg)
 
 ---
 
-## 👋 About Me
+##  About Me
 Hi, I'm **Nihan**  a **Full Stack Developer** who loves building web apps, JavaFX projects, and multiplayer games.  
-I enjoy solving problems, learning new tools, and creating things that actually work 🚀
+I enjoy solving problems, learning new tools, and creating things that actually work 
 
 ---
 
@@ -21,10 +21,10 @@ JavaFX · Git · Socket Programming
 
 ---
 
-## 📂 Featured Projects
-- **🌐 Disaster Relief Management System** — Real-time volunteer & resource tracking (SERN stack)  
-- **🎮 Multiplayer Game** — Built using JavaFX + Socket Programming  
-- **🖥 JavaFX Client App** — Clean Scene Builder UI with MySQL backend  
+##  Featured Projects
+- ** Disaster Relief Management System** — Real-time volunteer & resource tracking (SERN stack)  
+- ** Multiplayer Game** — Built using JavaFX + Socket Programming  
+- ** JavaFX Client App** — Clean Scene Builder UI with MySQL backend  
 
 ---
 
