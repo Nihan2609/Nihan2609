@@ -4,7 +4,7 @@
 ---
 
 ## 👋 About Me
-Hi, I'm **Al-Farhan Nihan** — a **Full Stack Developer** who loves building web apps, JavaFX projects, and multiplayer games.  
+Hi, I'm **Nihan**  a **Full Stack Developer** who loves building web apps, JavaFX projects, and multiplayer games.  
 I enjoy solving problems, learning new tools, and creating things that actually work 🚀
 
 ---
